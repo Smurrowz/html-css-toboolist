@@ -2,6 +2,7 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  font-family: 'Rubik', sans-serif;
 }
 
 .debug{
@@ -92,4 +93,29 @@ section ul li{
   border-radius: 50%;
   padding: 2px;
   margin-right: 10px;
+}
+/* task-customization css */
+.task-desc{
+  padding: 5px;
+  border-radius: 10px;
+  color: white;
+  font-size: 12px;
+}
+.task-editorial{
+  background-color: rgb(86, 177, 197);
+}
+.task-q1{
+  background-color: purple;
+}
+.task-recruiting{
+  background-color: aquamarine;
+}
+.task-mobile{
+background-color: orange;
+}
+.task-sales{
+  background-color: green;
+}
+.task-website{
+  background-color: palevioletred;
 }
