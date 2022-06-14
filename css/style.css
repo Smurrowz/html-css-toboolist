@@ -86,6 +86,9 @@ section ul li{
   padding: 2px;
   margin-right: 10px;
 }
+.list-no:before{
+  content: "✖";
+}
 .list-no{
   color: red;
   border: 1px solid red;
